@@ -1,0 +1,18 @@
+body {font: 42pt Arial }
+button {font-size: 28pt; padding: 35px; margin-top: 50px;background-color: white;color: black;}
+
+html{text-align: center;
+    margin-top: 10%;
+}
+
+button:hover{
+
+    background-color:black;color: white;
+    transition-duration: 0.8s;
+
+}
+
+#resultado{
+    font-size: 40pt;
+
+}
