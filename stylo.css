@@ -1,5 +1,5 @@
-body {font: 42pt Arial }
-button {font-size: 28pt; padding: 35px; margin-top: 50px;background-color: white;color: black;}
+body {font: 32pt Arial }
+button {font-size: 20pt; padding: 30px; margin-top: 40px;background-color: white;color: black;}
 
 html{text-align: center;
     margin-top: 10%;
@@ -13,6 +13,6 @@ button:hover{
 }
 
 #resultado{
-    font-size: 40pt;
+    font-size: 30pt;
 
 }
